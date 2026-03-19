@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Samriddhi Singh 👋
 
-<!--
-**Samriddhi-here/Samriddhi-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Galgotias University  
+💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Java
+- JavaScript
+- HTML, CSS
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Git & GitHub  
+
+---
+
+## 📌 Projects
+
+### 📝 Notes App
+- Built using HTML, CSS, JavaScript  
+- Features: Add, Edit, Delete, Search Notes  
+- Uses localStorage for data persistence  
+
+👉 https://github.com/Samriddhi-here/note_app  
+
+---
+
+## 📈 Currently Learning
+- Data Structures & Algorithms  
+- Backend Development (Spring Boot)  
+
+---
+
+## 🎯 Goal
+To become a skilled Software Engineer and build real-world applications  
+
+---
+
+## 📫 Contact
+- Email: samridhis384@gmail.com
+- LinkedIn: [your_linkedin_link](https://www.linkedin.com/in/samriddhi-singh-4b57822b2/)
